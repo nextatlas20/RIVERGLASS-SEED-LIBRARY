@@ -1,0 +1,5 @@
+variety_id,variety_name,available_packets,packet_limit
+SV-A1,Alpine Basil,6,3
+SV-B2,Copper Bean,4,2
+SV-C3,Dusk Carrot,5,4
+SV-D4,Ember Dill,0,2
